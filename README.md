@@ -1,1 +1,1 @@
-# kaggle_santa_bandits
+# Kaggle Santa 2020 - The Candy Cane Contest
